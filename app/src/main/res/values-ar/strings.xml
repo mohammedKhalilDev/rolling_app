@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نرد</string>
+    <string name="intro">"ادخل الخيارات"</string>
+    <string name="rollBTN">ارم</string>
+    <string name="addBTN">اضف</string>
+</resources>
